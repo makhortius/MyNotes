@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes">
+        <item>Заметка1</item>
+        <item>Заметка2</item>
+        <item>Заметка3</item>
+    </string-array>
+
+    <integer-array name="coat_of_arms_imgs">
+        <item>@drawable/note1</item>
+        <item>@drawable/note2</item>
+        <item>@drawable/note3</item>
+    </integer-array>
+</resources>
